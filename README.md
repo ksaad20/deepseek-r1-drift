@@ -3,9 +3,9 @@ A longitudinal time-series dataset tracking reasoning chain decay, token count e
 
 # DeepSeek-R1-Drift: Tracking Systematic Reasoning Decay and Policy Shift in Thinking Models
 
-[![License](https://shields.io)](https://opensource.org/licenses/Apache-2.0)
-[![Python 3.10+](https://shields.io)](https://python.org)
-[![Citation](https://shields.io)](https://arxiv.org)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://python.org)
+[![Citation](https://img.shields.io/badge/Citation-arXiv-b31b1b.svg)](https://arxiv.org)
 
 A time-series, longitudinal monitoring framework and benchmark dataset capturing **systematic reasoning drift, token efficiency decay, and latent alignment shifts** in deployed DeepSeek-R1 and DeepSeek-V3 instances (including official API endpoints, Groq, Together AI, and Hugging Face mirror deployments).
 
