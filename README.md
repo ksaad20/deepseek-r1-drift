@@ -60,7 +60,7 @@ If you utilize this dataset, code, or methodology in your academic publications,
 
 ```bibtex
 @misc{deepseek_r1_drift_2026,
-  author       = {Your Name},
+  author       = {Asif Kazi},
   title        = {DeepSeek-R1-Drift: A Longitudinal Dataset Tracking Reasoning Decay and Policy Shift in Deployed RL Models},
   year         = {2026},
   publisher    = {GitHub},
